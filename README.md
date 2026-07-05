@@ -176,9 +176,11 @@ Verified functionalities include:
 ---
 
 ## 📸 Screenshots
-
-
-
+<img width="500" height="500" alt="Screenshot 2026-06-21 174933" src="https://github.com/user-attachments/assets/93c569e1-f65a-4a6f-b59f-da7a8ac81550" />
+<img width="500" height="500" alt="Screenshot 2026-06-21 174952" src="https://github.com/user-attachments/assets/4e521850-ddc4-4890-a6ca-a940b4685862" />
+<img width="500" height="500" alt="Screenshot 2026-06-21 175005" src="https://github.com/user-attachments/assets/2257f1d6-3674-4ef4-964a-3bfd7574d435" />
+<img width="500" height="500" alt="Screenshot 2026-06-21 175017" src="https://github.com/user-attachments/assets/7c4df1bd-dc05-4e29-ae11-45c64cfc471a" />
+<img width="500" height="500" alt="Screenshot 2026-06-21 175028" src="https://github.com/user-attachments/assets/d836e4aa-9b19-4361-a606-f98661ed7c24" />
 
 ---
 

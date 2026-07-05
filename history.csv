@@ -1,0 +1,161 @@
+timestamp,gesture,confidence,sentence
+2026-06-21 15:47:09.112995,pain,78.0,Patient is experiencing pain
+2026-06-21 15:47:16.337991,water,100.0,Patient needs water
+2026-06-21 15:47:34.999222,help,69.0,Patient needs assistance
+2026-06-21 15:47:40.649801,emergency,78.0,Emergency assistance required
+2026-06-21 15:47:45.166599,help,68.0,Patient needs assistance
+2026-06-21 15:47:47.844659,medicine,70.0,Patient requires medicine
+2026-06-21 15:47:54.946243,water,100.0,Patient needs water
+2026-06-21 15:47:59.571758,emergency,72.0,Emergency assistance required
+2026-06-21 15:48:03.344068,help,96.0,Patient needs assistance
+2026-06-21 15:48:07.451300,emergency,63.0,Emergency assistance required
+2026-06-21 15:48:08.650391,medicine,80.0,Patient requires medicine
+2026-06-21 15:48:17.107565,pain,80.0,Patient is experiencing pain
+2026-06-21 15:53:52.225448,pain,67.0,Patient is experiencing pain
+2026-06-21 15:53:59.366040,water,100.0,Patient needs water
+2026-06-21 15:54:13.786028,help,62.0,Patient needs assistance
+2026-06-21 15:54:18.153854,medicine,72.0,Patient requires medicine
+2026-06-21 15:54:18.667922,help,66.0,Patient needs assistance
+2026-06-21 15:54:25.593041,water,100.0,Patient needs water
+2026-06-21 15:54:50.645771,pain,72.0,Patient is experiencing pain
+2026-06-21 15:54:52.438419,water,69.0,Patient needs water
+2026-06-21 15:54:52.899695,medicine,83.0,Patient requires medicine
+2026-06-21 15:55:58.461318,emergency,70.0,Emergency assistance required
+2026-06-21 15:58:58.828197,help,85.0,Patient needs assistance
+2026-06-21 15:59:13.551701,water,98.0,Patient needs water
+2026-06-21 15:59:16.811824,help,60.0,Patient needs assistance
+2026-06-21 15:59:17.291311,medicine,60.0,Patient requires medicine
+2026-06-21 15:59:21.302818,help,98.0,Patient needs assistance
+2026-06-21 15:59:29.170555,medicine,60.0,Patient requires medicine
+2026-06-21 15:59:30.079832,help,60.0,Patient needs assistance
+2026-06-21 15:59:32.147930,emergency,61.0,Emergency assistance required
+2026-06-21 15:59:32.639097,help,74.0,Patient needs assistance
+2026-06-21 15:59:38.831171,emergency,93.0,Emergency assistance required
+2026-06-21 15:59:46.896567,help,60.0,Patient needs assistance
+2026-06-21 15:59:47.781762,pain,77.0,Patient is experiencing pain
+2026-06-21 15:59:54.464759,help,60.0,Patient needs assistance
+2026-06-21 15:59:55.770432,pain,89.0,Patient is experiencing pain
+2026-06-21 16:05:14.501291,pain,75.0,Patient is experiencing pain
+2026-06-21 16:05:20.055385,water,99.0,Patient needs water
+2026-06-21 16:05:29.686507,help,79.0,Patient needs assistance
+2026-06-21 16:05:48.073434,emergency,70.0,Emergency assistance required
+2026-06-21 16:06:11.014582,water,76.0,Patient needs water
+2026-06-21 16:06:13.204525,pain,61.0,Patient is experiencing pain
+2026-06-21 16:06:15.045500,help,98.0,Patient needs assistance
+2026-06-21 16:06:18.409733,emergency,64.0,Emergency assistance required
+2026-06-21 16:06:20.387525,help,73.0,Patient needs assistance
+2026-06-21 16:15:59.882124,pain,64.0,Patient is experiencing pain
+2026-06-21 16:16:06.840525,water,99.0,Patient needs water
+2026-06-21 16:16:11.896328,help,93.0,Patient needs assistance
+2026-06-21 16:16:21.751937,emergency,71.0,Emergency assistance required
+2026-06-21 16:16:22.551368,help,62.0,Patient needs assistance
+2026-06-21 16:16:22.952348,emergency,78.0,Emergency assistance required
+2026-06-21 16:16:29.094839,water,100.0,Patient needs water
+2026-06-21 16:16:34.760729,help,78.0,Patient needs assistance
+2026-06-21 16:16:38.953136,emergency,62.0,Emergency assistance required
+2026-06-21 16:16:39.480475,help,63.0,Patient needs assistance
+2026-06-21 16:16:39.777223,emergency,65.0,Emergency assistance required
+2026-06-21 16:16:42.471165,help,86.0,Patient needs assistance
+2026-06-21 16:16:53.546921,water,66.0,Patient needs water
+2026-06-21 16:16:57.277962,help,98.0,Patient needs assistance
+2026-06-21 16:17:17.351017,water,100.0,Patient needs water
+2026-06-21 16:17:21.065819,emergency,71.0,Emergency assistance required
+2026-06-21 16:17:21.736193,pain,66.0,Patient is experiencing pain
+2026-06-21 16:17:24.792830,water,78.0,Patient needs water
+2026-06-21 16:17:29.564949,pain,62.0,Patient is experiencing pain
+2026-06-21 16:17:29.993669,water,89.0,Patient needs water
+2026-06-21 16:17:30.328337,help,79.0,Patient needs assistance
+2026-06-21 16:17:33.486083,pain,60.0,Patient is experiencing pain
+2026-06-21 16:17:33.864171,help,71.0,Patient needs assistance
+2026-06-21 16:17:35.257201,emergency,68.0,Emergency assistance required
+2026-06-21 16:17:36.584963,help,68.0,Patient needs assistance
+2026-06-21 16:18:08.650931,water,89.0,Patient needs water
+2026-06-21 16:18:32.488051,help,71.0,Patient needs assistance
+2026-06-21 16:18:35.728052,pain,72.0,Patient is experiencing pain
+2026-06-21 16:18:47.517144,help,79.0,Patient needs assistance
+2026-06-21 16:18:47.641577,medicine,79.0,Patient requires medicine
+2026-06-21 16:19:05.781541,pain,62.0,Patient is experiencing pain
+2026-06-21 16:19:07.227351,water,85.0,Patient needs water
+2026-06-21 16:28:00.686581,pain,90.0,Patient is experiencing pain
+2026-06-21 16:28:20.094268,help,89.0,Patient needs assistance
+2026-06-21 16:28:26.201086,water,100.0,Patient needs water
+2026-06-21 16:28:50.353297,help,88.0,Patient needs assistance
+2026-06-21 16:28:57.279738,emergency,100.0,Emergency assistance required
+2026-06-21 16:29:06.950516,medicine,93.0,Patient requires medicine
+2026-06-21 16:29:22.519727,help,89.0,Patient needs assistance
+2026-06-21 16:29:55.542805,emergency,95.0,Emergency assistance required
+2026-06-21 16:30:31.321444,water,100.0,Patient needs water
+2026-06-21 16:30:43.090764,medicine,88.0,Patient requires medicine
+2026-06-21 16:33:22.227244,help,98.0,Patient needs assistance
+2026-06-21 16:33:28.190259,water,98.0,Patient needs water
+2026-06-21 16:33:41.546095,medicine,86.0,Patient requires medicine
+2026-06-21 16:34:03.980720,pain,85.0,Patient is experiencing pain
+2026-06-21 16:35:05.800047,emergency,96.0,Emergency assistance required
+2026-06-21 16:35:46.247474,pain,87.0,Patient is experiencing pain
+2026-06-21 16:45:57.407320,emergency,98.0,Emergency assistance required
+2026-06-21 16:46:01.202871,water,96.0,Patient needs water
+2026-06-21 16:46:06.280189,help,91.0,Patient needs assistance
+2026-06-21 16:46:12.059374,pain,90.0,Patient is experiencing pain
+2026-06-21 16:46:21.719162,medicine,93.0,Patient requires medicine
+2026-06-21 16:46:27.665192,water,98.0,Patient needs water
+2026-06-21 17:21:31.128936,head,100.0,Unable to understand gesture
+2026-06-21 17:21:37.610937,chest,91.0,Unable to understand gesture
+2026-06-21 17:21:42.346883,head,100.0,Unable to understand gesture
+2026-06-21 17:21:52.348512,pain,95.0,Patient is experiencing pain
+2026-06-21 17:21:53.947599,head,95.0,Patient has headache
+2026-06-21 17:22:02.013391,pain,95.0,Patient is experiencing pain
+2026-06-21 17:22:10.266753,head,89.0,Patient has headache
+2026-06-21 17:22:18.079819,pain,93.0,Patient is experiencing pain
+2026-06-21 17:22:22.287230,head,93.0,Patient has headache
+2026-06-21 17:22:26.461869,pain,91.0,Patient is experiencing pain
+2026-06-21 17:22:33.723203,chest,90.0,Patient has chest pain
+2026-06-21 17:23:21.179177,water,86.0,Patient needs water
+2026-06-21 17:23:29.978825,help,90.0,Patient urgently needs water
+2026-06-21 17:31:11.870148,pain,89.0,Patient is experiencing pain
+2026-06-21 17:31:40.725158,chest,87.0,Patient has chest pain
+2026-06-21 17:31:48.061574,pain,89.0,Patient is experiencing pain
+2026-06-21 17:31:50.707518,head,91.0,Patient has headache
+2026-06-21 17:32:34.336922,water,91.0,Patient needs water
+2026-06-21 17:32:51.767067,help,92.0,Patient urgently needs water
+2026-06-21 17:33:42.811529,water,85.0,Patient needs water
+2026-06-21 17:33:46.828760,head,93.0,Unable to understand gesture
+2026-06-21 17:34:16.027792,pain,95.0,Patient is experiencing pain
+2026-06-21 17:44:37.786828,head,97.0,Patient indicates head area
+2026-06-21 17:44:42.111478,pain,100.0,Patient is experiencing pain
+2026-06-21 17:44:51.458427,chest,85.0,Patient indicates chest area
+2026-06-21 17:44:58.404771,emergency,89.0,Emergency assistance required
+2026-06-21 17:45:04.640006,help,95.0,Patient needs assistance
+2026-06-21 17:45:16.111592,medicine,89.0,Patient requires medicine
+2026-06-21 17:45:21.631788,water,94.0,Patient needs water
+2026-06-21 17:45:41.589900,emergency,95.0,Emergency assistance required
+2026-06-21 17:45:45.358864,head,94.0,Patient indicates head area
+2026-06-21 17:45:52.378937,water,92.0,Patient needs water
+2026-06-21 17:45:58.772131,help,94.0,Patient needs assistance
+2026-06-21 17:46:03.759735,pain,100.0,Patient is experiencing pain
+2026-06-21 17:46:15.087304,medicine,92.0,Patient requires medicine
+2026-06-21 17:46:28.479906,water,88.0,Patient needs water
+2026-06-21 17:46:37.807467,chest,85.0,Patient indicates chest area
+2026-06-21 17:49:20.915250,pain,98.0,Patient is experiencing pain
+2026-06-21 17:49:42.278723,help,90.0,Patient needs assistance
+2026-06-21 17:49:57.101164,emergency,94.0,Emergency assistance required
+2026-06-21 17:50:09.798276,head,90.0,Patient indicates head area
+2026-06-21 17:50:20.199909,chest,90.0,Patient indicates chest area
+2026-06-21 17:53:40.717583,emergency,99.0,Emergency assistance required
+2026-06-21 17:53:51.591725,water,92.0,Patient needs water
+2026-06-21 17:54:07.600915,help,85.0,Patient needs assistance
+2026-06-21 17:54:13.151114,head,99.0,Patient indicates head area
+2026-06-21 17:54:18.454749,pain,90.0,Patient is experiencing pain
+2026-06-21 17:54:23.654709,chest,89.0,Patient indicates chest area
+2026-06-22 06:02:07.893687,emergency,90.0,Emergency assistance required
+2026-06-22 06:03:22.792180,emergency,86.0,Emergency assistance required
+2026-06-22 06:03:29.599813,head,98.0,Patient indicates head area
+2026-06-22 06:03:40.800655,chest,88.0,Patient indicates chest area
+2026-06-22 06:03:51.392508,pain,92.0,Patient is experiencing pain
+2026-06-22 06:03:59.856286,medicine,86.0,Patient requires medicine
+2026-06-22 06:04:13.606648,water,93.0,Patient needs water
+2026-06-22 06:04:31.439537,help,92.0,Patient needs assistance
+2026-06-22 11:03:36.083063,emergency,94.0,Emergency assistance required
+2026-06-22 11:03:45.363078,head,94.0,Patient indicates head area
+2026-06-22 11:38:01.578637,emergency,89.0,Emergency assistance required
+2026-06-22 11:38:06.839463,head,96.0,Patient indicates head area
+2026-06-22 11:38:13.272403,pain,92.0,Patient is experiencing pain
